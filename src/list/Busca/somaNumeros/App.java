@@ -1,4 +1,4 @@
-package list.search.somaNumeros;
+package list.Busca.somaNumeros;
 
 public class App {
     public static void main(String[] args) {
